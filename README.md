@@ -68,7 +68,6 @@
   - `MenuOption4ProcessorCalculateTotalLivableAreaTest.java` (5 test cases)
   - `MenuOption5ProcessorCalculateMarketValuePerCapitaTest.java` (7 test cases)
 - [x] Mock objects using anonymous inner classes
-- [x] Test cases have 100% statement coverage for processor methods
 
 ## Remaining Work
 

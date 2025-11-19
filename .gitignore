@@ -39,7 +39,11 @@ buildNumber.properties
 .DS_Store
 Thumbs.db
 
-# Large data files (exceed GitHub 100MB limit)
-src/main/resources/properties.csv
-src/test/resources/properties.csv
+# Data files (large)
+*.csv
+*.json
+src/main/resources/population.txt
+src/test/resources/*.csv
+src/test/resources/*.json
+src/test/resources/population.txt
 
